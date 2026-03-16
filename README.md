@@ -44,7 +44,7 @@ Repo: https://github.com/Farha-n/Smart-Opd
 - Implemented **JWT auth + RBAC** to secure protected routes and sensitive operations
 - Created **25+ responsive UI components** with React + Tailwind (mobile-first)
 
-> Live Demo: (add link) · API: (add link)
+
 
 ### 🖼️ Custom Frame Store — E-commerce Web Application
 Repo: https://github.com/Farha-n/Custom-Frames  
@@ -54,7 +54,7 @@ Repo: https://github.com/Farha-n/Custom-Frames
 - Used React Context API for real-time cart state
 - MongoDB schemas with validation + error handling
 
-> Live Demo: (add link) · API: (add link)
+
 
 ### 🌐 Interactive Developer Portfolio
 Repo: https://github.com/Farha-n/Portfolio · Live: https://farhan-farooq.netlify.app/  
