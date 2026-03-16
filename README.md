@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Farhan Farooq 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer · MERN Stack · BTech CSE @ LPU</b><br/>
+  <b>Fullstack Web Developer · MERN Stack · BTech CSE @ LPU</b><br/>
   <i>Building real-world, full-stack web apps with clean UI and solid APIs.</i>
 </p>
 
